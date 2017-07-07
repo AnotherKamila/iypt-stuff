@@ -1,2 +1,2 @@
 # iypt-stuff
-Kamila's useful IYPT stuff: notes, helper software, etc.
+Kamila's useful IYPT stuff: notes, templates, helper software, etc.

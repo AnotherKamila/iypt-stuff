@@ -1,0 +1,15 @@
+Múdrosti / poučenie z chýb svojich i cudzích
+
+Pred fyzbojom
+=============
+
+Prezentácie
+-----------
+
+- Keď je na grafe niečo, o čom tvrdíme, že je lineára cez nulu, tak na tom grafe má byť nula (aby to nevyzeralo posunuté, keď nie je). *Source: IYPT 2017*
+- Keď je na grafe tvrdenie, že niečo konverguje k niečomu konkrétnemu, tak useknúť graf chvíľu predtým, než to začne naozaj vyzerať placato, je trocha hlúpe. *Source: IYPT 2017*
+
+Počas fyzboja
+=============
+
+- **TREBA SI POMÁHAŤ**. Príklad: Prezentujúci sa 3 minúty smaží na blbosti a zvyšok tímu vypisuje na tablet, na ktorý sa prezentujúci nepozerá lebo sa smaží, miesto toho, aby sa niekto postavil a povedal 2 slová, ktoré by všetko vysvetlili a spamätali prezentujúceho. *Source: IYPT 2017, asi 3x počas tej istej prezentácie*
