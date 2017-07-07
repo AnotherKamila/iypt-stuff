@@ -1,4 +1,5 @@
-Múdrosti / poučenie z chýb svojich i cudzích
+_**Múdrosti / poučenie z chýb svojich i cudzích**_
+
 
 Pred fyzbojom
 =============
@@ -6,10 +7,45 @@ Pred fyzbojom
 Prezentácie
 -----------
 
-- Keď je na grafe niečo, o čom tvrdíme, že je lineára cez nulu, tak na tom grafe má byť nula (aby to nevyzeralo posunuté, keď nie je). *Source: IYPT 2017*
+- Menej je niekedy viac. Jednoduchšia prezentácia, ktorej prezentujúci rozumie a v ktorej sa dá vyznať, je _rádovo_ lepšia, ako prezentácia s milión komplikáciami, ktoré spresňujú výsledok a nikto (t.j. porota alebo prezentujúci) ich nepochopí. Hint: Spresnenie sa dá aj odprezentovať na 1 slide a poriadne spraviť v appendixe.
+- Keď je na grafe niečo, o čom tvrdíme, že je lineára cez nulu, tak na tom grafe má byť nula (aby to nevyzeralo posunuté, keď nie je). *Source: IYPT 2017, kde by to bolo bývalo ušetrilo asi 2 minúty diskusie, počas ktorých sa všetci chytali za hlavu, len reporter a opponent si nevšimli, že to je posunuté a divili sa, že to nejde cez nulu.*
 - Keď je na grafe tvrdenie, že niečo konverguje k niečomu konkrétnemu, tak useknúť graf chvíľu predtým, než to začne naozaj vyzerať placato, je trocha hlúpe. *Source: IYPT 2017*
+
+Stratégia alebo čo
+------------------
+
+- Všetky úlohy, ktoré vidíte, sú na niečo. Ja veľmi dobre viem, že je lákavé na chvíľu vypnúť, keď je človek unavený a konečne nemusí nič robiť, ale skúsenosti sa získavajú tak, že človek je na fyzboji, či už je vonku alebo nie. Veci, ktoré sa dajú robiť, keď sa pozeráš na fyzboj (okrem tých, čo sú pod "Počas fyzboja"):
+  - **Počúvaš o zaujímavej fyzike, ktorá sa bude hodiť v ďalších fyzbojoch.** Získavaš prehľad o nasledovných veciach (okrem iného):
+    - Čo sú dôležité efekty: veci, ktoré sa objavujú zas a zas a teda sa hodí rozumieť im.
+    - Akou fyzikou smrdia aké problémy: čo čakať od úlohy; čo vyzerá absurdne keď to niekto tvrdí; a podobne.
+    - Akými argumentami sa dobre dokazuje, čo sa kde deje. Príklad: keď tvrdíme, že nejaký zvuk nie je harmonická oscilácia stĺpca vzduchu, tak dobrým dôkazom je, že vieš bez zmeny dĺžky trubice plynule meniť frekvenciu zvuku a tento dôkaz treba povedať.
+    - Čo je podozrivé.
+    - Čo je zanedbateľné a nezanedbateľné.
+  - Vidíš, ako ľudia vysvetľujú veci a či tomu iní ľudia rozumejú.
+  - Učíš sa na chybách cudzích, aby si sa nemusel učiť na vlastných (ako napríklad ja teraz :-))
 
 Počas fyzboja
 =============
 
 - **TREBA SI POMÁHAŤ**. Príklad: Prezentujúci sa 3 minúty smaží na blbosti a zvyšok tímu vypisuje na tablet, na ktorý sa prezentujúci nepozerá lebo sa smaží, miesto toho, aby sa niekto postavil a povedal 2 slová, ktoré by všetko vysvetlili a spamätali prezentujúceho. *Source: IYPT 2017, asi 3x počas tej istej prezentácie*
+- Vaším cieľom zvyčajne nemá byť sprdnúť ostatných, ale nahrabať body pre seba.
+
+Oponentúry a recenzie
+---------------------
+
+- Povedz svoj názor. Vychrliť 10 otázok je menej hodnotné ako vychrliť ich 6 a po každej odpovedi povedať "I agree" alebo "I believe <niečo iné>". Podotknúť 5 vecí, čo sa nám nepáčilo, je menej hodnotné, ako podotknúť 3 veci a ku každej povedať "a <toto> by bolo lepšie".
+- Volá sa to oponentúra/review, nie "table of contents". Sumarizovať prezentáciu/oponentúru/diskusiu je neveľmi užitočné, ak tým niečo nesleduješ. Zvyčajne tým môžeš chcieť sledovať napr. poukázanie na nejaký problém alebo naopak nejakú cool vec, vyjadrenie svojho názoru a pod. Ale nemáš tým strácať čas, ak tým nič nesleduješ.
+
+Stratégia alebo čo
+------------------
+
+- Vyberať úlohu, ktorú zadáme, podľa toho, čo nechceme prezentovať, nie je veľmi dobrá stratégia. Môže to byť fajn v poslednom fyzboji, nie v prvom. Je oveľa lepšie vyberať takú úlohu, ktorú budeme vedieť rozumne zoponovať, čiže takú, ktorú nebudú mať mega úžasnú 3000, ale zase nebude úplne prázdna alebo úplne zle (aby bolo o čom).
+- Na recenziu netreba byť úžasný vo fyzike, a treba mať dobrý prejav. Dobré pointy môže napísať ten, čo vie fyziku, ale odprezentovať ich treba tak, aby si ich porotcovia všimli.
+
+Slovíčkárenie
+-------------
+
+Tieto veci nie sú veľmi podstatné. Začni tými vyššie ;-)
+
+- keď je niečo aproximácia a funguje, je to "sufficient", nie nutne "correct" (lebo je to aproximácia)
+- "found it on the internet" znie trocha hlúpo -- povedať "in literature" je lepšie :D
