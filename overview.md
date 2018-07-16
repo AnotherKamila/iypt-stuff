@@ -1,11 +1,11 @@
 IYPT Overview
 =============
 
-  IYPT is a team-oriented scientific competition among teams of secondary school
-  students. The participants present their solutions to scientific problems they
-  have prepared over several months and then discuss their solutions with other
-  teams. The roles of Reporter (Presentation), Opponent and Reviewer are graded
-  by a jury consisting of international experts.
+> IYPT is a team-oriented scientific competition among teams of secondary school
+> students. The participants present their solutions to scientific problems they
+> have prepared over several months and then discuss their solutions with other
+> teams. The roles of Reporter (Presentation), Opponent and Reviewer are graded
+> by a jury consisting of international experts.
 
 Website: [iypt.org](http://iypt.org)
 
