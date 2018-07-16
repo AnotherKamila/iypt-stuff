@@ -36,8 +36,8 @@ Problems
 * collaboration with other people (e.g. university professors) is allowed and encouraged
 * 12 minutes to present the solution, 14 minutes for the opponent + discussion, 4 minutes for the reviewer
   * full timing information: http://iypt.org/new_Tournament_regulations#VII._The_Stage_regulations
+* example solution (2013): [Elastic Space (PPTX)](https://people.ksp.sk/~kamila/02.pptx) (apologies for the proprietary format)
 * scoring guidelines (read this to know what is expected): http://iypt.org/Official_Documents/Guidelines
-* example solution: [Elastic Space (PPTX)](https://people.ksp.sk/~kamila/02.pptx) (apologies for the proprietary format)
 * solutions archive: http://archive.iypt.org/solutions/
 
 IYPT Participation
