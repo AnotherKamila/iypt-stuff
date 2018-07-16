@@ -46,6 +46,7 @@ IYPT Participation
 * 1 team per country can participate at the IYPT
   * to select the representation team, regional/country-wide competitions are expected, but this is up to the local organizers
   * if the number of potential participants is small (e.g. when [bootstrapping a new country](#bootstrapping-a-new-country)), other ways of selecting the IYPT team are fine
+* physics fights are in English
 * financial:
   * accommodation & co. is provided (for 5 members + 1 team leader, probably -- TODO find out)
   * transportation to the venue, travel insurance and such is **not** provided
