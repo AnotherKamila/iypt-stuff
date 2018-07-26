@@ -1,7 +1,7 @@
 ---
 ---
 
-* New to IYPT? → [Overview](overview)
+* New to IYPT? → [Overview](iypt-overview)
 * [High-level ideas valid for all aspects of IYPT](high-level)
 * Levelling up your physics skills? → [Key Physics](physics)
 * Solving a Task
