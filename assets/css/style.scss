@@ -10,6 +10,12 @@
   }
 }
 
+.backlink {
+  color: #159957;
+  display: inline-block;
+  margin-top: 2em;
+}
+
 .boldlists > ul > li {
   font-weight: bold;
   ul,
@@ -24,6 +30,6 @@
   max-width: 600px;
 
   img {
-    width: 160px;
+    width: 180px;
   }
 }
