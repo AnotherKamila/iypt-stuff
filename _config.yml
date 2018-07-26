@@ -1,1 +1,11 @@
+under_construction: true
+title: IYPT Tips
 theme: jekyll-theme-cayman
+permalink: pretty
+
+defaults:
+  -
+    scope:
+      path: "" # all files
+    values:
+      layout: "default"
