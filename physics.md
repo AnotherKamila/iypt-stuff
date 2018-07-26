@@ -9,17 +9,15 @@ Key principles (always think about these)
 
 * Conservation of energy
   * this is the most important principle and should be thought about in nearly every task
-* Conservation of momentum
-  * see also: *Advanced mechanics*
-* conceptual understanding of derivatives and integrals (slope / area under curve)
-  * => understanding the relations between:
-    * energy
-    * momentum
-    * pressure
-    * force
-    * acceleration
-    * velocity
-    * ...
+* understanding the relations between:
+  * energy
+  * momentum
+  * pressure
+  * force
+  * acceleration
+  * velocity
+  * ...
+  * => conceptual understanding of derivatives and integrals (slope / area under curve)
 * Sanity checks:
   * dimensional analysis: do the units match?
   * limits: is the theory's prediction reasonable when x is close to 0? when y is very large?
@@ -29,6 +27,7 @@ Advanced mechanics
 ==================
 
 * torques / angular momentum / angular velocity...
+* conservation of momentum
 * friction
 * Lagrangian
   * not required, but may appear in some more advanced solutions
