@@ -11,7 +11,11 @@
   </head>
   <body>
     <header class="page-header" role="banner">
-      <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
+        <h1 class="project-name">
+            <a href="{{ '/' | relative_url }}">
+                {{ site.title | default: site.github.repository_name }}
+            </a>
+        </h1>
       <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
       {% if site.show_downloads %}
         <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
@@ -23,7 +27,7 @@
 
       {% if site.under_construction %}
         <div class="under-construction">
-          <img alt="work in progress" src="/assets/construction.svg" /><br />
+            <img alt="work in progress" src="{{ '/assets/construction.svg' | relative_url }}" /><br />
           Under construction – many pages are still missing.<br />
           <a href="https://github.com/anotherkamila/iypt-tips">Pull Requests are welcome!</a>
         </div>

@@ -3,6 +3,13 @@
 
 @import "{{ site.theme }}";
 
+.page-header h1 a {
+  color: #fff;
+  &:hover {
+    text-decoration: none;
+  }
+}
+
 .boldlists > ul > li {
   font-weight: bold;
   ul,
