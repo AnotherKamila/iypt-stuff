@@ -29,7 +29,7 @@ Advanced mechanics
 * torques / angular momentum / angular velocity...
 * conservation of momentum
 * friction
-* Lagrangian
+* Lagrangian mechanics
   * not required, but may appear in some more advanced solutions
 
 Oscillators
